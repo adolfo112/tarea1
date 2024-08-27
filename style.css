@@ -1,0 +1,42 @@
+.c1{
+    background-color: red;
+    height:50%;
+    padding: 40px;
+    text-align: center;
+}
+.c2{
+    height: 250px;
+    width: 250px;
+    background-color: yellow;
+    border-style: solid;
+    border-color: yellow;
+    border-radius: 150px;
+    padding: 20px;
+}
+.c3{
+    height: 90%;
+    width: 90%;
+    background-color: green;
+    border-style: solid;
+    border-color: green;
+    border-radius: 145px;
+    padding: 10px;    
+}
+.c4{
+    height: 90%;
+    width: 90%;
+    background-color: purple;
+    border-style: solid;
+    border-color: purple;
+    border-radius: 180px;
+    padding: 2.5px;
+}
+.c5{
+    height: 90%;
+    width: 90%;
+    background-color: cyan;
+    border-style: solid;
+    border-color: cyan;
+    border-radius: 250px;
+    padding: 0px;
+}
